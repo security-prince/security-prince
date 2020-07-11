@@ -8,4 +8,4 @@
 - An active participant at [Null,OWASP](https://null.co.in/profile/2924-ishaq) chapter meets
 
 
-For more in detail information visit my [Portfolio](https://ishaqmohammed.me/)
+For more in details visit my [Portfolio](https://ishaqmohammed.me/)
