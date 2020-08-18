@@ -1,8 +1,5 @@
 ### Hi there, I'm Ishaq Mohammed - aka [security_prince][website] 👋
 
-[![Website](https://img.shields.io/website?label=ishaqmohammed.me&style=for-the-badge&url=https%3A%2F%2Fishaqmohammed.me)](https://ishaqmohammed.me/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/security_prince?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=security_prince)
-
 - Currently working as an Application Security Engineer at AppDirect  
 - Have contributed to [open source security research](https://www.exploit-db.com/?author=9086) & [DevSecOps Newsletter](https://info.practical-devsecops.com/devsecops-newsletter)  
 - Was involved with the review team for the [Free Docker Security Course](https://free-courses.practical-devsecops.com/docker-security-course/)  
