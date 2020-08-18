@@ -1,5 +1,5 @@
 ### Hi there, 
-### I'm Ishaq Mohammed - aka [security_prince][website] 👋
+### I'm Ishaq Mohammed - aka security_prince 👋
 
 - Currently working as an Application Security Engineer at AppDirect  
 - Have contributed to [open source security research](https://www.exploit-db.com/?author=9086) & [DevSecOps Newsletter](https://info.practical-devsecops.com/devsecops-newsletter)  
