@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Ishaq Mohammed - aka [security_prince][website] 👋
 
-### I'm Ishaq Mohammed
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ishaqmohammed.me/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/security_prince?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=security_prince)
 
 - Currently working as an Application Security Engineer at AppDirect  
 - Have contributed to [open source security research](https://www.exploit-db.com/?author=9086) & [DevSecOps Newsletter](https://info.practical-devsecops.com/devsecops-newsletter)  
