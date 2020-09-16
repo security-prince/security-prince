@@ -9,6 +9,9 @@
   - [Resources for Application Security](https://ishaqmohammed.me/posts/resources-for-application-security/)  
   - [Application Security Engineer Interview Questions](https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/)  
   - [Application Security Knowledgebase](https://ishaqmohammed.me/posts/application-security-knowledgebase/)  
+ 
+### Some of my Github Stats
+![My github stats](https://github-readme-stats.vercel.app/api?username=security-prince&show_icons=true)  
 
 ### Connect with me:
 
@@ -16,7 +19,8 @@
 [<img align="left" alt="security_prince | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="security-prince | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shaikhishaq201 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="shaikhishaq201 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="shaikhishaq201 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
+
 
 
 
