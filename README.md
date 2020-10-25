@@ -21,7 +21,7 @@
 
 
 [website]: https://ishaqmohammed.me/
-[twitter]: https://twitter.com/intent/follow?screen_name=security_prince
+[twitter]: https://twitter.com/security_prince
 [youtube]: https://www.youtube.com/user/shaikhishaq201/
 [linkedin]: https://www.linkedin.com/in/security-prince
 [reddit]: https://www.reddit.com/user/security_prince
