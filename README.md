@@ -6,6 +6,7 @@
 - Was involved with the review team for the [Free Docker Security Course](https://free-courses.practical-devsecops.com/docker-security-course/)  
 - Active participant at [Null,OWASP](https://null.co.in/profile/2924-ishaq) chapter meets  
 - Checkout some of my posts:point_down:  
+  - [2020 - A Not So Technical Review](https://ishaqmohammed.me/posts/2020-a-not-so-technical-review/)  
   - [Resources for Application Security](https://ishaqmohammed.me/posts/resources-for-application-security/)  
   - [Application Security Engineer Interview Questions](https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/)  
   - [Application Security Knowledgebase](https://ishaqmohammed.me/posts/application-security-knowledgebase/)  
