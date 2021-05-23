@@ -2,8 +2,8 @@
 ### I'm Ishaq Mohammed - aka security_prince 👋
 
 - Currently working as an Application Security Engineer at AppDirect  
-- Have contributed to [open source security](https://www.exploit-db.com/?author=9086) & [DevSecOps Newsletter](https://info.practical-devsecops.com/devsecops-newsletter)  
-- Was involved with the review team for the [Free Docker Security Course](https://free-courses.practical-devsecops.com/docker-security-course/)  
+- Have contributed to [open source security](https://www.exploit-db.com/?author=9086) & [DevSecOps Newsletter](https://www.practical-devsecops.com/devsecops-newsletter/)  
+- Was involved with the review team for the [Free Docker Security Course](https://www.practical-devsecops.com/category/docker-course/)  
 - Active participant at [Null,OWASP](https://null.co.in/profile/2924-ishaq) chapter meets  
 - Checkout some of my posts:point_down:  
   - [2020 - A Not So Technical Review](https://ishaqmohammed.me/posts/2020-a-not-so-technical-review/)  
