@@ -1,7 +1,7 @@
 ### Hi there, 
 ### I'm Ishaq Mohammed - aka security_prince 👋
 
-- Currently working as an Application Security Engineer at AppDirect  
+- Currently working with the Application Security team at TIAA  
 - Have contributed to [open source security](https://www.exploit-db.com/?author=9086) & [DevSecOps Newsletter](https://www.practical-devsecops.com/devsecops-newsletter/)  
 - Was involved with the review team for the [Free Docker Security Course](https://www.practical-devsecops.com/category/docker-course/)  
 - Active participant at [Null,OWASP](https://null.co.in/profile/2924-ishaq) chapter meets  
