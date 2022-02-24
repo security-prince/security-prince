@@ -16,8 +16,9 @@
 [<img align="left" alt="security_prince | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="security-prince | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shaikhishaq201 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="shaikhishaq201 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
+[<img align="left" alt="shaikhishaq201 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  <br>
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=security-prince)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
 
 
@@ -28,4 +29,3 @@
 [reddit]: https://www.reddit.com/user/security_prince  
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=security-prince)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
