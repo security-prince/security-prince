@@ -11,7 +11,7 @@
   - [Application Security Engineer Interview Questions](https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/)  
   - [Application Security Knowledgebase](https://ishaqmohammed.me/posts/application-security-knowledgebase/)  
 
-![Ishaq's Github Stats](https://github-readme-stats.vercel.app/api?username=security-prince&count_private=true&show_icons=true&include_all_commits=true&acount_private=true&layout=compact)
+![Ishaq's Github Stats](https://github-readme-stats.vercel.app/api?username=security-prince&count_private=true&show_icons=true&include_all_commits=true&acount_private=true&layout=compact&custom_title=Ishaq's%20GitHub%20Stats&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=security-prince&layout=compact&langs_count=30)
 
 ### Connect with me:  
