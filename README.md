@@ -11,8 +11,8 @@
   - [Application Security Engineer Interview Questions](https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/)  
   - [Application Security Knowledgebase](https://ishaqmohammed.me/posts/application-security-knowledgebase/)  
 
-![Ishaq's Github Stats](https://github-readme-stats.vercel.app/api?username=security-prince&count_private=true&show_icons=true&include_all_commits=true&acount_private=true&layout=compact&custom_title=Ishaq's%20GitHub%20Stats&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=security-prince&layout=compact&langs_count=30)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=security-prince&count_private=true&show_icons=true&include_all_commits=true&acount_private=true&layout=compact&theme=graywhite&custom_title=Ishaq's%20GitHub%20Stats&hide_border=true&include_all_commits=true" alt="Ishaq's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=security-prince&layout=compact&langs_count=30&hide_border=true&&theme=graywhite" /></a> |
+| ------------- | ------------- |
 
 ### Connect with me:  
 [<img align="left" alt="ishaqmohammed.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
