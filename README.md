@@ -6,7 +6,7 @@
 - Was involved with the review team for the [Free Docker Security Course](https://www.practical-devsecops.com/category/docker-course/)  
 - Active participant at [Null,OWASP](https://null.co.in/profile/2924-ishaq) chapter meets  
 - Please ping me to talk about Application & Software Security, Developer Education and Advocacy, Security Culture and Automation
-- 
+- Also ping me to talk about books, poems, shayaris and storytelling
 - Checkout some of my posts:point_down:  
   - [2020 - A Not So Technical Review](https://ishaqmohammed.me/posts/2020-a-not-so-technical-review/)  
   - [Resources for Application Security](https://ishaqmohammed.me/posts/resources-for-application-security/)  
